@@ -233,7 +233,7 @@
 <div class="report-container">
     <div class="page-header">
         @if (extension_loaded('gd'))
-            <img src="{{ public_path('images/report-header-awwal.png') }}" alt="SUHAIM SOFT">
+            <img src="{{ public_path('images/report-header-awwal.png') }}" alt="AWWAL LAB">
         @else
             <div class="letterhead-fallback">
                 <div class="fallback-brand">
